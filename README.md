@@ -135,6 +135,7 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 | [Sourcegraph knowledge bases extension](https://github.com/bobheadxi/sourcegraph-knowledge-bases) | Browse Markdown knowledge bases (e.g. Obsidian vaults or Foam repositories) in Sourcegraph. | [Robert Lin](https://github.com/bobheadxi) |
 | [Obweb](https://github.com/chenyukang/obweb/) | Web applcation to view and edit files in an Obsidian vault. Optimized for mobile devices. | [Yukang Chen](https://github.com/chenyukang) |
 | [TopicSplit](https://github.com/andrwspt/topicsplit) | Free offline semantic text grouper — split pasted text into topic segments by meaning. Perfect for breaking articles into atomic notes for Obsidian. 100% client-side, no server, no API key. | [andrwspt](https://github.com/andrwspt) |
+| [Meeting Splitter](https://andrwspt.github.io/topicsplit/meeting-splitter.html) | Free offline meeting transcript splitter. Paste any Zoom/Teams/Meet transcript → get clean topic-segmented notes. 100% browser-based, no upload. | [andrwspt](https://github.com/andrwspt) |
   
 ---
 
